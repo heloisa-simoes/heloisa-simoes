@@ -33,6 +33,6 @@ Tecnologias que eu uso no meu dia
 
 
 <br> <br>
-[![Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev.simoes?lang=pt-BR)
+
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolioheloisasimoes.vercel.app/)
