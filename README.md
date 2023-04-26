@@ -38,3 +38,14 @@ Tecnologias que eu uso no meu dia
 
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolioheloisasimoes.vercel.app/)
+
+
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aquilesfalcaoo/aquilesfalcaoo/master/github-contribution-grid-snake.svg" />
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=aquilesfalcaoo&show_icons=true&theme=dark&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesfalcaoo&hide=java,html,python&theme=dark&line_height=33">
+</p>
