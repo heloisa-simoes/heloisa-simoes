@@ -40,7 +40,7 @@ Tecnologias que eu uso no meu dia
 <br> <br>
 
 
-[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolioheloisasimoes.vercel.app/)
+[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://heloisasimoes-portifolio.netlify.app/)
 
 
 <br>
