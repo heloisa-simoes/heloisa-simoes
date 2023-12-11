@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @heloisa-simoes
 - 👀 I’m interested in  Front-end Developer
-- 🌱 I’m currently learning  React
-- 💞️ I’m looking to collaborate  no que for necessário 
-- 📫 How to reach me  @devssimoes
 <br>
 Tecnologias que eu uso no meu dia
 
